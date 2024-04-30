@@ -1,0 +1,19 @@
+body{
+    font-family: "Lato", sans-serif;
+}
+.banner{
+    background-image: url(images/portfolio.png);
+    padding: 160px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.bg{
+    background-color: rgba(241, 232, 235, 0.8);
+}
+.skill-bg{
+    background-color: #d5d5d5;
+}
+.skill-padding{
+    padding: 70px 0;
+}
